@@ -1,0 +1,9 @@
+go to---> 3 dots in upper side------> more tools---> developer tool ---->  you can see the  options--->
+page workspace >>  -----> select that double arrow(>>) select snipet option-----> here you can write your js code 
+
+
+to run the code----> right click your cursor and select run----> output will appear in console, which given in down.
+
+to clear the data from console click  (Control(ctrl)+L) 
+
+to reove all the contet of console-----> click on Reload(right click)---->press on remove cache and hard reload
